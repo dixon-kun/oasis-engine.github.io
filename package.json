@@ -52,7 +52,7 @@
     "dat.gui": "^0.7.7",
     "delegate": "^3.2.0",
     "docsearch.js": "^2.6.3",
-    "gatsby": "^2.24.47",
+    "gatsby": "^4.10.2",
     "gatsby-plugin-antd": "^2.0.2",
     "gatsby-plugin-catch-links": "^2.0.0",
     "gatsby-plugin-copy-files": "^1.0.3",
@@ -94,7 +94,7 @@
     "@types/react-dom": "^17.0.3",
     "@types/react-helmet": "^6.0.0",
     "@types/react-intl": "^2.3.17",
-    "@umijs/fabric": "^2.0.0",
+    "@umijs/fabric": "^3.0.0",
     "cross-env": "^7.0.2",
     "eslint": "^7.8.1",
     "gatsby-remark-autolink-headers": "^2.2.1",
@@ -111,7 +111,7 @@
     "prismjs": "^1.15.0",
     "slash2": "^2.0.0",
     "stylelint": "^13.6.0",
-    "typedoc": "^0.20.35",
+    "typedoc": "^0.21.0",
     "typescript": "^3.9.3"
   },
   "resolutions": {
