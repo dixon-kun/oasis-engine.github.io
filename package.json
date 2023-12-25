@@ -110,7 +110,7 @@
     "prettier": "^2.0.0",
     "prismjs": "^1.15.0",
     "slash2": "^2.0.0",
-    "stylelint": "^13.6.0",
+    "stylelint": "^16.1.0",
     "typedoc": "^0.20.35",
     "typescript": "^3.9.3"
   },
