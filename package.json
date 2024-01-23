@@ -52,7 +52,7 @@
     "dat.gui": "^0.7.7",
     "delegate": "^3.2.0",
     "docsearch.js": "^2.6.3",
-    "gatsby": "^2.24.47",
+    "gatsby": "^5.13.2",
     "gatsby-plugin-antd": "^2.0.2",
     "gatsby-plugin-catch-links": "^2.0.0",
     "gatsby-plugin-copy-files": "^1.0.3",
